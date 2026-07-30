@@ -4,9 +4,8 @@
   <img src="https://media2.giphy.com/media/LvGx6SWHXHTQk/giphy.gif" width="200"/>
 </p>
 
-### 🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst
+### 🔐 Cybersecurity Enthusiast | Aspiring Cloud Architect | Cybersecurity | Home Lab Practitioner
 
-Entrepreneur by day, ethical hacker by night.
 Building my cybersecurity skills from scratch with a real home lab.
 
 ---
@@ -17,7 +16,7 @@ Building my cybersecurity skills from scratch with a real home lab.
 - Google Cybersecurity Certificate (Coursera)
 
 ### 🎯 Career Path
-SOC Analyst Jr → SOC Analyst II → Security Engineer → Security Architect
+Security Engineer → Security Architect
 
 ## 🛠️ Security Stack
 
