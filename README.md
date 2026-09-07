@@ -28,7 +28,9 @@ Security Engineer → Security Architect
 
 **Networking**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/Subnetting-0F172A?style=for-the-badge)
 
 **Exploitation**
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -46,5 +48,7 @@ Security Engineer → Security Architect
 **Certifications**
 ![Google](https://img.shields.io/badge/Google%20Cybersecurity%20Cert-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+🚧 **Currently Building**
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-In_Progress-FBBF24?style=for-the-badge)
 ### 📂 Featured
 👉 [cybersecurity-labs](https://github.com/usertired/cybersecurity-labs) — Home lab write-ups & findings
