@@ -10,10 +10,13 @@ Building my cybersecurity skills from scratch with a real home lab.
 
 ---
 
-### 🧠 Currently Learning
-- Network reconnaissance with Nmap & Wireshark
-- Exploitation with Metasploit Framework
-- Google Cybersecurity Certificate (Coursera)
+🧠 **Currently Learning**
+
+- CompTIA Network+ (in progress)
+- CompTIA Security+ (in progress)
+- CCNA
+- Cloud Architecture — building a hands-on project to apply to the home lab
+- AI Practitioner
 
 ### 🎯 Career Path
 Security Engineer → Security Architect
