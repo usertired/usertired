@@ -101,6 +101,18 @@ Cloud Support → Security Engineer → Security Architect
 
 
 
+![SSH](https://img.shields.io/badge/SSH-1f425f?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+
+
+
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+
 **Exploitation**
 
 
