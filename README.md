@@ -1,7 +1,6 @@
 <h1 align="left">Israel Bracamontes</h1>
 
-### Cybersecurity Professional | SOC & SIEM Focus | Security Operations
-
+### Cybersecurity Professional |Cloud Security| Cloud Architect
 Transitioning into Security Operations, building hands-on expertise in SIEM monitoring, log analysis, and threat detection through a self-directed home lab and real-world security analysis.
 
 ---
@@ -98,6 +97,7 @@ SOC Analyst → Security Engineer → Security Architect
 
 
 ![Subnetting](https://img.shields.io/badge/Subnetting-0F172A?style=for-the-badge)
+
 
 
 
